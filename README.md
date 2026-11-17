@@ -2,7 +2,7 @@
 
 主要维护SCHNIE网站、聊天与知识检索系统，也制作可复用的技能和模板。
 
-[项目门户](https://sch-nie.com/) · [完整仓库目录](REPOSITORIES.md)
+[项目门户](https://sch-nie.com/) · [完整仓库目录](REPOSITORIES.md) · [协作与反馈](https://github.com/schrolemons/.github/blob/main/SUPPORT.md)
 
 ## 从这里开始
 

@@ -121,3 +121,8 @@
 - 在仓库简介中查看项目用途，在主题标签中查看分类与技术方向。
 - 构建、安装和使用方法以各项目的README为准。
 - 派生项目的背景、许可与发布信息请同时参阅上游仓库。
+
+## 账号导航与协作配置
+
+- [schrolemons](https://github.com/schrolemons/schrolemons)：主页介绍与本分类目录。
+- [.github](https://github.com/schrolemons/.github)：通用反馈表单、贡献说明与PR模板；项目已有规则优先。
