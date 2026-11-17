@@ -100,6 +100,7 @@
 | --- | --- | --- |
 | [cc-training](https://github.com/schrolemons/cc-training) | 基于sourdough的网络拥塞控制课程验证环境 | [litonglab/cc-training](https://github.com/litonglab/cc-training) |
 | [3D_FPS](https://github.com/schrolemons/3D_FPS) | Unity第一人称射击小游戏｜包含Windows可运行版本与游戏说明 | — |
+| [mahjong-bot](https://github.com/schrolemons/mahjong-bot) | C++17国标麻将课程项目｜目标牌型搜索、启发式估价与文本交互 | — |
 
 [按主题浏览这一类仓库](https://github.com/search?q=user%3Aschrolemons%20topic%3Acategory-research%20fork%3Atrue&type=repositories)
 
